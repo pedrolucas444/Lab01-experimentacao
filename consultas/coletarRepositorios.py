@@ -20,8 +20,13 @@ OUTPUT_PATH = Path(__file__).parent.parent / "data" / "repos_1000.json"
 # =========================
 
 def carregar_token():
-    with open(TOKEN_PATH, "r") as f:
-        return f.read().strip()
+    try:
+        with open(TOKEN_PATH, "r") as f:
+            return f.read().strip()
+    except FileNotFoundError:
+        print(f"❌ Token não encontrado em: {TOKEN_PATH}")
+        print("Crie o arquivo com seu token GitHub")
+        raise
 
 
 def carregar_query():
@@ -100,54 +105,52 @@ def fetch_1000_repos():
 # =========================
 
 def salvar_csv(repos):
-
     csv_path = Path(__file__).parent.parent / "data" / "repos_1000.csv"
 
     with open(csv_path, "w", newline="", encoding="utf-8") as f:
-
         writer = csv.writer(f)
 
+        # Cabeçalho CORRIGIDO
         writer.writerow([
             "name",
             "owner",
             "createdAt",
             "updatedAt",
+            "pushedAt",
             "primaryLanguage",
             "mergedPRs",
             "releases",
-            "issues",
+            "openIssues",
             "closedIssues",
             "stars"
         ])
-
+        
         for repo in repos:
-
-            # linguagem
+            # Linguagem
             language_data = repo.get("primaryLanguage")
-            if language_data:
-                language = language_data.get("name", "None")
-            else:
-                language = "None"
+            language = language_data.get("name", "None") if language_data else "None"
 
+            # Dados CORRIGIDOS - usando os nomes exatos da query
             prs = repo.get("pullRequests", {}).get("totalCount", 0)
             releases = repo.get("releases", {}).get("totalCount", 0)
-            issues = repo.get("issues", {}).get("totalCount", 0)
-            closed = repo.get("issuesClosed", {}).get("totalCount", 0)
+            open_issues = repo.get("openIssues", {}).get("totalCount", 0)
+            closed_issues = repo.get("closedIssues", {}).get("totalCount", 0)
 
             writer.writerow([
                 repo.get("name"),
                 repo.get("owner", {}).get("login"),
                 repo.get("createdAt"),
                 repo.get("updatedAt"),
+                repo.get("pushedAt"),
                 language,
                 prs,
                 releases,
-                issues,
-                closed,
+                open_issues,
+                closed_issues,
                 repo.get("stargazerCount")
             ])
 
-    print(f"CSV salvo em: {csv_path}")
+    print(f"✅ CSV salvo em: {csv_path}")
 
 
 # =========================
@@ -155,18 +158,22 @@ def salvar_csv(repos):
 # =========================
 
 def main():
-
+    print("🚀 Iniciando coleta de repositórios...")
+    
     repos = fetch_1000_repos()
 
+    # Criar diretório data se não existir
     OUTPUT_PATH.parent.mkdir(exist_ok=True, parents=True)
 
-    with open(OUTPUT_PATH, "w") as f:
+    # Salvar JSON
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump({"nodes": repos}, f, indent=2)
 
+    # Salvar CSV
     salvar_csv(repos)
 
-    print(f"Total coletado: {len(repos)} repositórios")
-    print(f"JSON salvo em: {OUTPUT_PATH}")
+    print(f"📊 Total coletado: {len(repos)} repositórios")
+    print(f"💾 JSON salvo em: {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":

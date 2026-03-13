@@ -17,6 +17,7 @@ query ($cursor: String) {
 
         createdAt
         updatedAt
+        pushedAt
 
         primaryLanguage {
           name
