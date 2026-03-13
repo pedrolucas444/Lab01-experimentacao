@@ -196,7 +196,6 @@ Gráfico:
 
 **Interpretação:** A hipótese é **confirmada**. Com mediana de 8.33 anos, os repositórios mais populares são de fato maduros, indicando que projetos bem-sucedidos tendem a ter longevidade.
 
-📊 [Gráfico: rq01_idade.png](graficos/rq01_idade.png)
 
 ---
 
@@ -212,7 +211,6 @@ Gráfico:
 
 **Interpretação:** A hipótese é **confirmada**. A alta mediana de 738 PRs aceitas demonstra forte engajamento da comunidade, embora a média elevada (quase 4 mil) indique que alguns poucos projetos são outliers com contribuição massiva.
 
-📊 [Gráfico: rq02_prs.png](graficos/rq02_prs.png)
 
 ---
 
@@ -228,7 +226,6 @@ Gráfico:
 
 **Interpretação:** A hipótese é **parcialmente confirmada**. Embora a mediana de 40 releases indique atualizações regulares, 29.5% dos repositórios não possuem nenhuma release formal, sugerindo que muitos projetos populares não utilizam esse mecanismo de versionamento.
 
-📊 [Gráfico: rq03_releases.png](graficos/rq03_releases.png)
 
 ---
 
@@ -244,7 +241,6 @@ Gráfico:
 
 **Interpretação:** **Dados inconsistentes**.
 
-📊 [Gráfico: rq04_update.png](graficos/rq04_update.png)
 
 ---
 
@@ -265,7 +261,6 @@ Gráfico:
 
 **Interpretação:** A hipótese é **confirmada**. Python, TypeScript e JavaScript dominam o cenário, representando quase 50% dos repositórios. Destaque para o TypeScript superando o JavaScript, indicando a crescente adoção de tipagem estática.
 
-📊 [Gráfico: rq05_linguagens.png](graficos/rq05_linguagens.png)
 
 ---
 
@@ -280,7 +275,6 @@ Gráfico:
 
 **Interpretação:** A hipótese é **confirmada**. A mediana de 87.9% de issues fechadas demonstra que projetos populares são eficientes na gestão e resolução de problemas reportados pela comunidade.
 
-📊 [Gráfico: rq06_issues.png](graficos/rq06_issues.png)
 
 ---
 
