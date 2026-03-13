@@ -5,9 +5,9 @@
       "owner": {
         "login": "codecrafters-io"
       },
-      "stargazerCount": 469820,
+      "stargazerCount": 474719,
       "createdAt": "2018-05-09T12:03:18Z",
-      "updatedAt": "2026-02-27T19:05:48Z",
+      "updatedAt": "2026-03-13T14:41:43Z",
       "primaryLanguage": {
         "name": "Markdown"
       },
@@ -18,7 +18,7 @@
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 886
+        "totalCount": 890
       },
       "issuesClosed": {
         "totalCount": 653
@@ -29,21 +29,21 @@
       "owner": {
         "login": "sindresorhus"
       },
-      "stargazerCount": 441154,
+      "stargazerCount": 445178,
       "createdAt": "2014-07-11T13:42:37Z",
-      "updatedAt": "2026-02-27T19:09:48Z",
+      "updatedAt": "2026-03-13T14:41:47Z",
       "primaryLanguage": null,
       "pullRequests": {
-        "totalCount": 693
+        "totalCount": 694
       },
       "releases": {
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 363
+        "totalCount": 366
       },
       "issuesClosed": {
-        "totalCount": 347
+        "totalCount": 350
       }
     },
     {
@@ -51,23 +51,23 @@
       "owner": {
         "login": "freeCodeCamp"
       },
-      "stargazerCount": 437571,
+      "stargazerCount": 438078,
       "createdAt": "2014-12-24T17:49:19Z",
-      "updatedAt": "2026-02-27T19:03:49Z",
+      "updatedAt": "2026-03-13T14:27:18Z",
       "primaryLanguage": {
         "name": "TypeScript"
       },
       "pullRequests": {
-        "totalCount": 27690
+        "totalCount": 27797
       },
       "releases": {
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 21133
+        "totalCount": 21168
       },
       "issuesClosed": {
-        "totalCount": 20936
+        "totalCount": 21022
       }
     },
     {
@@ -75,9 +75,9 @@
       "owner": {
         "login": "public-apis"
       },
-      "stargazerCount": 400850,
+      "stargazerCount": 408974,
       "createdAt": "2016-03-20T23:49:42Z",
-      "updatedAt": "2026-02-27T19:05:23Z",
+      "updatedAt": "2026-03-13T14:41:50Z",
       "primaryLanguage": {
         "name": "Python"
       },
@@ -88,10 +88,10 @@
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 833
+        "totalCount": 840
       },
       "issuesClosed": {
-        "totalCount": 830
+        "totalCount": 832
       }
     },
     {
@@ -99,23 +99,23 @@
       "owner": {
         "login": "EbookFoundation"
       },
-      "stargazerCount": 383186,
+      "stargazerCount": 383944,
       "createdAt": "2013-10-11T06:50:37Z",
-      "updatedAt": "2026-02-27T19:04:02Z",
+      "updatedAt": "2026-03-13T14:16:15Z",
       "primaryLanguage": {
         "name": "Python"
       },
       "pullRequests": {
-        "totalCount": 7328
+        "totalCount": 7337
       },
       "releases": {
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 1262
+        "totalCount": 1264
       },
       "issuesClosed": {
-        "totalCount": 1227
+        "totalCount": 1228
       }
     },
     {
@@ -123,23 +123,47 @@
       "owner": {
         "login": "kamranahmedse"
       },
-      "stargazerCount": 349845,
+      "stargazerCount": 350825,
       "createdAt": "2017-03-15T13:45:52Z",
-      "updatedAt": "2026-02-27T19:09:25Z",
+      "updatedAt": "2026-03-13T14:36:01Z",
       "primaryLanguage": {
         "name": "TypeScript"
       },
       "pullRequests": {
-        "totalCount": 4050
+        "totalCount": 4093
       },
       "releases": {
         "totalCount": 1
       },
       "issues": {
-        "totalCount": 3076
+        "totalCount": 3091
       },
       "issuesClosed": {
-        "totalCount": 3049
+        "totalCount": 3083
+      }
+    },
+    {
+      "name": "system-design-primer",
+      "owner": {
+        "login": "donnemartin"
+      },
+      "stargazerCount": 338696,
+      "createdAt": "2017-02-26T16:15:28Z",
+      "updatedAt": "2026-03-13T14:33:35Z",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "pullRequests": {
+        "totalCount": 208
+      },
+      "releases": {
+        "totalCount": 0
+      },
+      "issues": {
+        "totalCount": 360
+      },
+      "issuesClosed": {
+        "totalCount": 116
       }
     },
     {
@@ -147,9 +171,9 @@
       "owner": {
         "login": "jwasham"
       },
-      "stargazerCount": 337482,
+      "stargazerCount": 337784,
       "createdAt": "2016-06-06T02:34:12Z",
-      "updatedAt": "2026-02-27T18:47:10Z",
+      "updatedAt": "2026-03-13T14:16:15Z",
       "primaryLanguage": null,
       "pullRequests": {
         "totalCount": 415
@@ -158,34 +182,34 @@
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 525
+        "totalCount": 526
       },
       "issuesClosed": {
         "totalCount": 454
       }
     },
     {
-      "name": "system-design-primer",
+      "name": "openclaw",
       "owner": {
-        "login": "donnemartin"
+        "login": "openclaw"
       },
-      "stargazerCount": 336854,
-      "createdAt": "2017-02-26T16:15:28Z",
-      "updatedAt": "2026-02-27T19:02:58Z",
+      "stargazerCount": 310098,
+      "createdAt": "2025-11-24T10:16:47Z",
+      "updatedAt": "2026-03-13T14:42:18Z",
       "primaryLanguage": {
-        "name": "Python"
+        "name": "TypeScript"
       },
       "pullRequests": {
-        "totalCount": 203
+        "totalCount": 3185
       },
       "releases": {
-        "totalCount": 0
+        "totalCount": 66
       },
       "issues": {
-        "totalCount": 358
+        "totalCount": 18485
       },
       "issuesClosed": {
-        "totalCount": 110
+        "totalCount": 11154
       }
     },
     {
@@ -193,14 +217,14 @@
       "owner": {
         "login": "vinta"
       },
-      "stargazerCount": 284788,
+      "stargazerCount": 286926,
       "createdAt": "2014-06-27T21:00:06Z",
-      "updatedAt": "2026-02-27T18:59:40Z",
+      "updatedAt": "2026-03-13T14:33:24Z",
       "primaryLanguage": {
         "name": "Python"
       },
       "pullRequests": {
-        "totalCount": 637
+        "totalCount": 642
       },
       "releases": {
         "totalCount": 0
@@ -217,9 +241,9 @@
       "owner": {
         "login": "awesome-selfhosted"
       },
-      "stargazerCount": 275668,
+      "stargazerCount": 279683,
       "createdAt": "2015-06-01T02:33:17Z",
-      "updatedAt": "2026-02-27T19:07:09Z",
+      "updatedAt": "2026-03-13T14:29:36Z",
       "primaryLanguage": null,
       "pullRequests": {
         "totalCount": 2395
@@ -239,9 +263,9 @@
       "owner": {
         "login": "996icu"
       },
-      "stargazerCount": 275563,
+      "stargazerCount": 275753,
       "createdAt": "2019-03-26T07:31:14Z",
-      "updatedAt": "2026-02-27T18:55:31Z",
+      "updatedAt": "2026-03-13T14:11:50Z",
       "primaryLanguage": null,
       "pullRequests": {
         "totalCount": 1072
@@ -261,9 +285,9 @@
       "owner": {
         "login": "practical-tutorials"
       },
-      "stargazerCount": 259657,
+      "stargazerCount": 260863,
       "createdAt": "2017-04-12T05:07:46Z",
-      "updatedAt": "2026-02-27T19:02:39Z",
+      "updatedAt": "2026-03-13T14:38:40Z",
       "primaryLanguage": null,
       "pullRequests": {
         "totalCount": 182
@@ -283,47 +307,23 @@
       "owner": {
         "login": "facebook"
       },
-      "stargazerCount": 243339,
+      "stargazerCount": 243891,
       "createdAt": "2013-05-24T16:15:54Z",
-      "updatedAt": "2026-02-27T18:09:37Z",
+      "updatedAt": "2026-03-13T14:33:52Z",
       "primaryLanguage": {
         "name": "JavaScript"
       },
       "pullRequests": {
-        "totalCount": 12762
+        "totalCount": 12784
       },
       "releases": {
         "totalCount": 118
       },
       "issues": {
-        "totalCount": 14378
+        "totalCount": 14398
       },
       "issuesClosed": {
-        "totalCount": 13563
-      }
-    },
-    {
-      "name": "openclaw",
-      "owner": {
-        "login": "openclaw"
-      },
-      "stargazerCount": 236317,
-      "createdAt": "2025-11-24T10:16:47Z",
-      "updatedAt": "2026-02-27T19:10:44Z",
-      "primaryLanguage": {
-        "name": "TypeScript"
-      },
-      "pullRequests": {
-        "totalCount": 2127
-      },
-      "releases": {
-        "totalCount": 57
-      },
-      "issues": {
-        "totalCount": 13108
-      },
-      "issuesClosed": {
-        "totalCount": 9078
+        "totalCount": 13590
       }
     },
     {
@@ -331,9 +331,9 @@
       "owner": {
         "login": "torvalds"
       },
-      "stargazerCount": 219663,
+      "stargazerCount": 222526,
       "createdAt": "2011-09-04T22:48:12Z",
-      "updatedAt": "2026-02-27T18:58:21Z",
+      "updatedAt": "2026-03-13T14:34:21Z",
       "primaryLanguage": {
         "name": "C"
       },
@@ -355,20 +355,20 @@
       "owner": {
         "login": "TheAlgorithms"
       },
-      "stargazerCount": 218204,
+      "stargazerCount": 218564,
       "createdAt": "2016-07-16T09:44:01Z",
-      "updatedAt": "2026-02-27T18:59:14Z",
+      "updatedAt": "2026-03-13T14:19:02Z",
       "primaryLanguage": {
         "name": "Python"
       },
       "pullRequests": {
-        "totalCount": 3046
+        "totalCount": 3069
       },
       "releases": {
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 1702
+        "totalCount": 1705
       },
       "issuesClosed": {
         "totalCount": 1540
@@ -379,9 +379,9 @@
       "owner": {
         "login": "vuejs"
       },
-      "stargazerCount": 209929,
+      "stargazerCount": 209977,
       "createdAt": "2013-07-29T03:24:51Z",
-      "updatedAt": "2026-02-27T17:01:53Z",
+      "updatedAt": "2026-03-13T14:17:41Z",
       "primaryLanguage": {
         "name": "TypeScript"
       },
@@ -392,10 +392,10 @@
         "totalCount": 249
       },
       "issues": {
-        "totalCount": 10027
+        "totalCount": 10028
       },
       "issuesClosed": {
-        "totalCount": 9668
+        "totalCount": 9669
       }
     },
     {
@@ -403,9 +403,9 @@
       "owner": {
         "login": "trimstray"
       },
-      "stargazerCount": 208017,
+      "stargazerCount": 209848,
       "createdAt": "2018-06-23T10:43:14Z",
-      "updatedAt": "2026-02-27T19:07:17Z",
+      "updatedAt": "2026-03-13T14:29:21Z",
       "primaryLanguage": null,
       "pullRequests": {
         "totalCount": 122
@@ -425,23 +425,23 @@
       "owner": {
         "login": "ossu"
       },
-      "stargazerCount": 201706,
+      "stargazerCount": 202329,
       "createdAt": "2014-05-04T00:18:39Z",
-      "updatedAt": "2026-02-27T19:02:38Z",
+      "updatedAt": "2026-03-13T14:29:56Z",
       "primaryLanguage": {
         "name": "HTML"
       },
       "pullRequests": {
-        "totalCount": 304
+        "totalCount": 305
       },
       "releases": {
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 665
+        "totalCount": 669
       },
       "issuesClosed": {
-        "totalCount": 653
+        "totalCount": 655
       }
     },
     {
@@ -449,9 +449,9 @@
       "owner": {
         "login": "trekhleb"
       },
-      "stargazerCount": 195701,
+      "stargazerCount": 195752,
       "createdAt": "2018-03-24T07:47:04Z",
-      "updatedAt": "2026-02-27T17:33:11Z",
+      "updatedAt": "2026-03-13T14:16:15Z",
       "primaryLanguage": {
         "name": "JavaScript"
       },
@@ -462,10 +462,10 @@
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 371
+        "totalCount": 372
       },
       "issuesClosed": {
-        "totalCount": 233
+        "totalCount": 234
       }
     },
     {
@@ -473,23 +473,23 @@
       "owner": {
         "login": "tensorflow"
       },
-      "stargazerCount": 193935,
+      "stargazerCount": 194128,
       "createdAt": "2015-11-07T01:19:20Z",
-      "updatedAt": "2026-02-27T19:08:49Z",
+      "updatedAt": "2026-03-13T14:39:16Z",
       "primaryLanguage": {
         "name": "C++"
       },
       "pullRequests": {
-        "totalCount": 42095
+        "totalCount": 42653
       },
       "releases": {
-        "totalCount": 220
+        "totalCount": 222
       },
       "issues": {
-        "totalCount": 41172
+        "totalCount": 41219
       },
       "issuesClosed": {
-        "totalCount": 40297
+        "totalCount": 40306
       }
     },
     {
@@ -497,23 +497,23 @@
       "owner": {
         "login": "ohmyzsh"
       },
-      "stargazerCount": 184998,
+      "stargazerCount": 185306,
       "createdAt": "2009-08-28T18:15:37Z",
-      "updatedAt": "2026-02-27T16:51:05Z",
+      "updatedAt": "2026-03-13T14:30:16Z",
       "primaryLanguage": {
         "name": "Shell"
       },
       "pullRequests": {
-        "totalCount": 3509
+        "totalCount": 3520
       },
       "releases": {
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 5030
+        "totalCount": 5036
       },
       "issuesClosed": {
-        "totalCount": 4889
+        "totalCount": 4893
       }
     },
     {
@@ -521,9 +521,9 @@
       "owner": {
         "login": "getify"
       },
-      "stargazerCount": 184439,
+      "stargazerCount": 184500,
       "createdAt": "2013-11-16T02:37:24Z",
-      "updatedAt": "2026-02-27T14:55:23Z",
+      "updatedAt": "2026-03-13T14:15:26Z",
       "primaryLanguage": null,
       "pullRequests": {
         "totalCount": 370
@@ -543,9 +543,9 @@
       "owner": {
         "login": "CyC2018"
       },
-      "stargazerCount": 183727,
+      "stargazerCount": 183920,
       "createdAt": "2018-02-13T14:56:24Z",
-      "updatedAt": "2026-02-27T12:53:11Z",
+      "updatedAt": "2026-03-13T14:35:40Z",
       "primaryLanguage": null,
       "pullRequests": {
         "totalCount": 374
@@ -554,7 +554,7 @@
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 577
+        "totalCount": 578
       },
       "issuesClosed": {
         "totalCount": 449
@@ -565,23 +565,23 @@
       "owner": {
         "login": "microsoft"
       },
-      "stargazerCount": 182121,
+      "stargazerCount": 182598,
       "createdAt": "2015-09-03T20:23:38Z",
-      "updatedAt": "2026-02-27T18:42:19Z",
+      "updatedAt": "2026-03-13T14:33:20Z",
       "primaryLanguage": {
         "name": "TypeScript"
       },
       "pullRequests": {
-        "totalCount": 42983
+        "totalCount": 43638
       },
       "releases": {
-        "totalCount": 196
+        "totalCount": 199
       },
       "issues": {
-        "totalCount": 231315
+        "totalCount": 233624
       },
       "issuesClosed": {
-        "totalCount": 218137
+        "totalCount": 219708
       }
     },
     {
@@ -589,23 +589,23 @@
       "owner": {
         "login": "Significant-Gravitas"
       },
-      "stargazerCount": 182074,
+      "stargazerCount": 182435,
       "createdAt": "2023-03-16T09:21:07Z",
-      "updatedAt": "2026-02-27T18:32:42Z",
+      "updatedAt": "2026-03-13T14:27:07Z",
       "primaryLanguage": {
         "name": "Python"
       },
       "pullRequests": {
-        "totalCount": 3938
+        "totalCount": 4022
       },
       "releases": {
-        "totalCount": 93
+        "totalCount": 95
       },
       "issues": {
-        "totalCount": 3729
+        "totalCount": 3744
       },
       "issuesClosed": {
-        "totalCount": 3498
+        "totalCount": 3516
       }
     },
     {
@@ -613,9 +613,9 @@
       "owner": {
         "login": "jackfrued"
       },
-      "stargazerCount": 179066,
+      "stargazerCount": 179577,
       "createdAt": "2018-03-01T16:05:52Z",
-      "updatedAt": "2026-02-27T18:21:55Z",
+      "updatedAt": "2026-03-13T13:58:20Z",
       "primaryLanguage": {
         "name": "Jupyter Notebook"
       },
@@ -626,7 +626,7 @@
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 710
+        "totalCount": 711
       },
       "issuesClosed": {
         "totalCount": 188
@@ -637,23 +637,23 @@
       "owner": {
         "login": "n8n-io"
       },
-      "stargazerCount": 176711,
+      "stargazerCount": 178938,
       "createdAt": "2019-06-22T09:24:21Z",
-      "updatedAt": "2026-02-27T19:09:20Z",
+      "updatedAt": "2026-03-13T14:42:45Z",
       "primaryLanguage": {
         "name": "TypeScript"
       },
       "pullRequests": {
-        "totalCount": 13964
+        "totalCount": 14279
       },
       "releases": {
-        "totalCount": 543
+        "totalCount": 556
       },
       "issues": {
-        "totalCount": 8144
+        "totalCount": 8321
       },
       "issuesClosed": {
-        "totalCount": 7642
+        "totalCount": 7874
       }
     },
     {
@@ -661,23 +661,23 @@
       "owner": {
         "login": "flutter"
       },
-      "stargazerCount": 175362,
+      "stargazerCount": 175538,
       "createdAt": "2015-03-06T22:54:58Z",
-      "updatedAt": "2026-02-27T18:49:51Z",
+      "updatedAt": "2026-03-13T14:28:23Z",
       "primaryLanguage": {
         "name": "Dart"
       },
       "pullRequests": {
-        "totalCount": 46829
+        "totalCount": 47051
       },
       "releases": {
         "totalCount": 7
       },
       "issues": {
-        "totalCount": 112331
+        "totalCount": 112586
       },
       "issuesClosed": {
-        "totalCount": 100152
+        "totalCount": 100395
       }
     },
     {
@@ -685,23 +685,23 @@
       "owner": {
         "login": "twbs"
       },
-      "stargazerCount": 174005,
+      "stargazerCount": 174070,
       "createdAt": "2011-07-29T21:19:00Z",
-      "updatedAt": "2026-02-27T19:10:22Z",
+      "updatedAt": "2026-03-13T13:11:26Z",
       "primaryLanguage": {
         "name": "MDX"
       },
       "pullRequests": {
-        "totalCount": 9109
+        "totalCount": 9139
       },
       "releases": {
         "totalCount": 94
       },
       "issues": {
-        "totalCount": 22848
+        "totalCount": 22850
       },
       "issuesClosed": {
-        "totalCount": 22453
+        "totalCount": 22543
       }
     },
     {
@@ -709,9 +709,9 @@
       "owner": {
         "login": "github"
       },
-      "stargazerCount": 172711,
+      "stargazerCount": 172962,
       "createdAt": "2010-11-08T20:17:14Z",
-      "updatedAt": "2026-02-27T18:42:27Z",
+      "updatedAt": "2026-03-13T14:16:15Z",
       "primaryLanguage": null,
       "pullRequests": {
         "totalCount": 1727
@@ -731,23 +731,23 @@
       "owner": {
         "login": "massgravel"
       },
-      "stargazerCount": 167167,
+      "stargazerCount": 168640,
       "createdAt": "2020-01-12T23:03:34Z",
-      "updatedAt": "2026-02-27T19:06:02Z",
+      "updatedAt": "2026-03-13T14:39:41Z",
       "primaryLanguage": {
         "name": "Batchfile"
       },
       "pullRequests": {
-        "totalCount": 5
+        "totalCount": 6
       },
       "releases": {
         "totalCount": 29
       },
       "issues": {
-        "totalCount": 905
+        "totalCount": 914
       },
       "issuesClosed": {
-        "totalCount": 903
+        "totalCount": 913
       }
     },
     {
@@ -755,20 +755,20 @@
       "owner": {
         "login": "avelino"
       },
-      "stargazerCount": 166167,
+      "stargazerCount": 167245,
       "createdAt": "2014-07-06T13:42:15Z",
-      "updatedAt": "2026-02-27T19:08:31Z",
+      "updatedAt": "2026-03-13T14:42:22Z",
       "primaryLanguage": {
         "name": "Go"
       },
       "pullRequests": {
-        "totalCount": 3570
+        "totalCount": 3622
       },
       "releases": {
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 723
+        "totalCount": 728
       },
       "issuesClosed": {
         "totalCount": 713
@@ -779,23 +779,23 @@
       "owner": {
         "login": "ollama"
       },
-      "stargazerCount": 163598,
+      "stargazerCount": 164956,
       "createdAt": "2023-06-26T19:39:32Z",
-      "updatedAt": "2026-02-27T19:07:10Z",
+      "updatedAt": "2026-03-13T14:33:07Z",
       "primaryLanguage": {
         "name": "Go"
       },
       "pullRequests": {
-        "totalCount": 3051
+        "totalCount": 3099
       },
       "releases": {
-        "totalCount": 186
+        "totalCount": 190
       },
       "issues": {
-        "totalCount": 9409
+        "totalCount": 9567
       },
       "issuesClosed": {
-        "totalCount": 7445
+        "totalCount": 7569
       }
     },
     {
@@ -803,23 +803,23 @@
       "owner": {
         "login": "AUTOMATIC1111"
       },
-      "stargazerCount": 161372,
+      "stargazerCount": 161662,
       "createdAt": "2022-08-22T14:05:26Z",
-      "updatedAt": "2026-02-27T18:21:55Z",
+      "updatedAt": "2026-03-13T14:19:51Z",
       "primaryLanguage": {
         "name": "Python"
       },
       "pullRequests": {
-        "totalCount": 1882
+        "totalCount": 1884
       },
       "releases": {
         "totalCount": 27
       },
       "issues": {
-        "totalCount": 7882
+        "totalCount": 7891
       },
       "issuesClosed": {
-        "totalCount": 5483
+        "totalCount": 5487
       }
     },
     {
@@ -827,9 +827,9 @@
       "owner": {
         "login": "jlevy"
       },
-      "stargazerCount": 159973,
+      "stargazerCount": 160257,
       "createdAt": "2015-05-20T15:11:03Z",
-      "updatedAt": "2026-02-27T16:12:50Z",
+      "updatedAt": "2026-03-13T14:16:15Z",
       "primaryLanguage": null,
       "pullRequests": {
         "totalCount": 317
@@ -838,7 +838,7 @@
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 258
+        "totalCount": 262
       },
       "issuesClosed": {
         "totalCount": 136
@@ -849,23 +849,23 @@
       "owner": {
         "login": "huggingface"
       },
-      "stargazerCount": 157098,
+      "stargazerCount": 157766,
       "createdAt": "2018-10-29T13:56:00Z",
-      "updatedAt": "2026-02-27T19:03:22Z",
+      "updatedAt": "2026-03-13T14:28:54Z",
       "primaryLanguage": {
         "name": "Python"
       },
       "pullRequests": {
-        "totalCount": 18681
+        "totalCount": 18824
       },
       "releases": {
-        "totalCount": 243
+        "totalCount": 244
       },
       "issues": {
-        "totalCount": 18631
+        "totalCount": 18702
       },
       "issuesClosed": {
-        "totalCount": 17550
+        "totalCount": 17639
       }
     },
     {
@@ -873,23 +873,23 @@
       "owner": {
         "login": "Snailclimb"
       },
-      "stargazerCount": 153906,
+      "stargazerCount": 154216,
       "createdAt": "2018-05-07T13:27:00Z",
-      "updatedAt": "2026-02-27T18:38:21Z",
+      "updatedAt": "2026-03-13T14:09:34Z",
       "primaryLanguage": {
         "name": "Java"
       },
       "pullRequests": {
-        "totalCount": 1210
+        "totalCount": 1216
       },
       "releases": {
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 1130
+        "totalCount": 1133
       },
       "issuesClosed": {
-        "totalCount": 1056
+        "totalCount": 1066
       }
     },
     {
@@ -897,9 +897,9 @@
       "owner": {
         "login": "DigitalPlatDev"
       },
-      "stargazerCount": 149652,
+      "stargazerCount": 152151,
       "createdAt": "2024-05-30T13:23:00Z",
-      "updatedAt": "2026-02-27T19:08:37Z",
+      "updatedAt": "2026-03-13T14:38:57Z",
       "primaryLanguage": {
         "name": "HTML"
       },
@@ -917,51 +917,51 @@
       }
     },
     {
-      "name": "yt-dlp",
-      "owner": {
-        "login": "yt-dlp"
-      },
-      "stargazerCount": 148873,
-      "createdAt": "2020-10-26T04:22:55Z",
-      "updatedAt": "2026-02-27T19:02:36Z",
-      "primaryLanguage": {
-        "name": "Python"
-      },
-      "pullRequests": {
-        "totalCount": 3226
-      },
-      "releases": {
-        "totalCount": 130
-      },
-      "issues": {
-        "totalCount": 11085
-      },
-      "issuesClosed": {
-        "totalCount": 9283
-      }
-    },
-    {
       "name": "prompts.chat",
       "owner": {
         "login": "f"
       },
-      "stargazerCount": 148494,
+      "stargazerCount": 151936,
       "createdAt": "2022-12-05T13:54:13Z",
-      "updatedAt": "2026-02-27T19:11:04Z",
+      "updatedAt": "2026-03-13T14:42:59Z",
       "primaryLanguage": {
         "name": "HTML"
       },
       "pullRequests": {
-        "totalCount": 200
+        "totalCount": 201
       },
       "releases": {
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 130
+        "totalCount": 138
       },
       "issuesClosed": {
-        "totalCount": 126
+        "totalCount": 130
+      }
+    },
+    {
+      "name": "yt-dlp",
+      "owner": {
+        "login": "yt-dlp"
+      },
+      "stargazerCount": 150981,
+      "createdAt": "2020-10-26T04:22:55Z",
+      "updatedAt": "2026-03-13T14:40:38Z",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "pullRequests": {
+        "totalCount": 3236
+      },
+      "releases": {
+        "totalCount": 132
+      },
+      "issues": {
+        "totalCount": 11177
+      },
+      "issuesClosed": {
+        "totalCount": 9355
       }
     },
     {
@@ -969,9 +969,9 @@
       "owner": {
         "login": "airbnb"
       },
-      "stargazerCount": 148093,
+      "stargazerCount": 148114,
       "createdAt": "2012-11-01T23:13:50Z",
-      "updatedAt": "2026-02-27T11:19:42Z",
+      "updatedAt": "2026-03-13T14:09:49Z",
       "primaryLanguage": {
         "name": "JavaScript"
       },
@@ -982,34 +982,10 @@
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 1398
+        "totalCount": 1404
       },
       "issuesClosed": {
-        "totalCount": 1298
-      }
-    },
-    {
-      "name": "langflow",
-      "owner": {
-        "login": "langflow-ai"
-      },
-      "stargazerCount": 145127,
-      "createdAt": "2023-02-08T22:28:03Z",
-      "updatedAt": "2026-02-27T18:53:36Z",
-      "primaryLanguage": {
-        "name": "Python"
-      },
-      "pullRequests": {
-        "totalCount": 5713
-      },
-      "releases": {
-        "totalCount": 280
-      },
-      "issues": {
-        "totalCount": 3155
-      },
-      "issuesClosed": {
-        "totalCount": 2813
+        "totalCount": 1302
       }
     },
     {
@@ -1017,9 +993,9 @@
       "owner": {
         "login": "521xueweihan"
       },
-      "stargazerCount": 144051,
+      "stargazerCount": 145971,
       "createdAt": "2016-05-04T06:24:11Z",
-      "updatedAt": "2026-02-27T18:44:01Z",
+      "updatedAt": "2026-03-13T14:26:24Z",
       "primaryLanguage": {
         "name": "Python"
       },
@@ -1027,13 +1003,37 @@
         "totalCount": 17
       },
       "releases": {
-        "totalCount": 62
+        "totalCount": 63
       },
       "issues": {
-        "totalCount": 2956
+        "totalCount": 2971
       },
       "issuesClosed": {
         "totalCount": 2681
+      }
+    },
+    {
+      "name": "langflow",
+      "owner": {
+        "login": "langflow-ai"
+      },
+      "stargazerCount": 145616,
+      "createdAt": "2023-02-08T22:28:03Z",
+      "updatedAt": "2026-03-13T14:37:23Z",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "pullRequests": {
+        "totalCount": 5840
+      },
+      "releases": {
+        "totalCount": 285
+      },
+      "issues": {
+        "totalCount": 3183
+      },
+      "issuesClosed": {
+        "totalCount": 2842
       }
     },
     {
@@ -1041,9 +1041,9 @@
       "owner": {
         "login": "ytdl-org"
       },
-      "stargazerCount": 139743,
+      "stargazerCount": 139862,
       "createdAt": "2010-10-31T14:35:07Z",
-      "updatedAt": "2026-02-27T18:22:09Z",
+      "updatedAt": "2026-03-13T14:39:09Z",
       "primaryLanguage": {
         "name": "Python"
       },
@@ -1054,10 +1054,10 @@
         "totalCount": 341
       },
       "issues": {
-        "totalCount": 26818
+        "totalCount": 26819
       },
       "issuesClosed": {
-        "totalCount": 23189
+        "totalCount": 23190
       }
     },
     {
@@ -1065,23 +1065,23 @@
       "owner": {
         "login": "vercel"
       },
-      "stargazerCount": 138029,
+      "stargazerCount": 138277,
       "createdAt": "2016-10-05T23:32:51Z",
-      "updatedAt": "2026-02-27T18:59:18Z",
+      "updatedAt": "2026-03-13T14:16:15Z",
       "primaryLanguage": {
         "name": "JavaScript"
       },
       "pullRequests": {
-        "totalCount": 26044
+        "totalCount": 26230
       },
       "releases": {
         "totalCount": 1000
       },
       "issues": {
-        "totalCount": 24295
+        "totalCount": 24333
       },
       "issuesClosed": {
-        "totalCount": 22245
+        "totalCount": 22283
       }
     },
     {
@@ -1089,9 +1089,9 @@
       "owner": {
         "login": "yangshun"
       },
-      "stargazerCount": 137889,
+      "stargazerCount": 138104,
       "createdAt": "2016-07-05T05:00:48Z",
-      "updatedAt": "2026-02-27T18:59:30Z",
+      "updatedAt": "2026-03-13T14:13:41Z",
       "primaryLanguage": {
         "name": "TypeScript"
       },
@@ -1102,10 +1102,10 @@
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 120
+        "totalCount": 121
       },
       "issuesClosed": {
-        "totalCount": 76
+        "totalCount": 77
       }
     },
     {
@@ -1113,23 +1113,23 @@
       "owner": {
         "login": "Genymobile"
       },
-      "stargazerCount": 136248,
+      "stargazerCount": 136923,
       "createdAt": "2017-11-21T18:00:27Z",
-      "updatedAt": "2026-02-27T18:44:26Z",
+      "updatedAt": "2026-03-13T14:37:29Z",
       "primaryLanguage": {
         "name": "C"
       },
       "pullRequests": {
-        "totalCount": 123
+        "totalCount": 124
       },
       "releases": {
         "totalCount": 50
       },
       "issues": {
-        "totalCount": 5949
+        "totalCount": 5970
       },
       "issuesClosed": {
-        "totalCount": 3284
+        "totalCount": 3289
       }
     },
     {
@@ -1137,23 +1137,23 @@
       "owner": {
         "login": "labuladong"
       },
-      "stargazerCount": 132835,
+      "stargazerCount": 133023,
       "createdAt": "2020-02-19T09:01:23Z",
-      "updatedAt": "2026-02-27T15:30:31Z",
+      "updatedAt": "2026-03-13T14:30:10Z",
       "primaryLanguage": {
         "name": "Markdown"
       },
       "pullRequests": {
-        "totalCount": 243
+        "totalCount": 244
       },
       "releases": {
-        "totalCount": 1
+        "totalCount": 0
       },
       "issues": {
-        "totalCount": 961
+        "totalCount": 963
       },
       "issuesClosed": {
-        "totalCount": 961
+        "totalCount": 962
       }
     },
     {
@@ -1161,9 +1161,9 @@
       "owner": {
         "login": "golang"
       },
-      "stargazerCount": 132794,
+      "stargazerCount": 133021,
       "createdAt": "2014-08-19T04:33:40Z",
-      "updatedAt": "2026-02-27T17:45:36Z",
+      "updatedAt": "2026-03-13T14:16:14Z",
       "primaryLanguage": {
         "name": "Go"
       },
@@ -1174,1202 +1174,10 @@
         "totalCount": 0
       },
       "issues": {
-        "totalCount": 70297
+        "totalCount": 70568
       },
       "issuesClosed": {
-        "totalCount": 60882
-      }
-    },
-    {
-      "name": "dify",
-      "owner": {
-        "login": "langgenius"
-      },
-      "stargazerCount": 130588,
-      "createdAt": "2023-04-12T07:40:24Z",
-      "updatedAt": "2026-02-27T18:31:16Z",
-      "primaryLanguage": {
-        "name": "TypeScript"
-      },
-      "pullRequests": {
-        "totalCount": 9597
-      },
-      "releases": {
-        "totalCount": 158
-      },
-      "issues": {
-        "totalCount": 16601
-      },
-      "issuesClosed": {
-        "totalCount": 16179
-      }
-    },
-    {
-      "name": "PowerToys",
-      "owner": {
-        "login": "microsoft"
-      },
-      "stargazerCount": 130129,
-      "createdAt": "2019-05-01T17:44:02Z",
-      "updatedAt": "2026-02-27T18:59:44Z",
-      "primaryLanguage": {
-        "name": "C#"
-      },
-      "pullRequests": {
-        "totalCount": 6318
-      },
-      "releases": {
-        "totalCount": 127
-      },
-      "issues": {
-        "totalCount": 38165
-      },
-      "issuesClosed": {
-        "totalCount": 30083
-      }
-    },
-    {
-      "name": "langchain",
-      "owner": {
-        "login": "langchain-ai"
-      },
-      "stargazerCount": 127667,
-      "createdAt": "2022-10-17T02:58:36Z",
-      "updatedAt": "2026-02-27T19:08:36Z",
-      "primaryLanguage": {
-        "name": "Python"
-      },
-      "pullRequests": {
-        "totalCount": 16011
-      },
-      "releases": {
-        "totalCount": 1000
-      },
-      "issues": {
-        "totalCount": 9096
-      },
-      "issuesClosed": {
-        "totalCount": 8865
-      }
-    },
-    {
-      "name": "30-seconds-of-code",
-      "owner": {
-        "login": "Chalarangelo"
-      },
-      "stargazerCount": 126890,
-      "createdAt": "2017-11-29T17:35:03Z",
-      "updatedAt": "2026-02-27T17:30:03Z",
-      "primaryLanguage": {
-        "name": "JavaScript"
-      },
-      "pullRequests": {
-        "totalCount": 836
-      },
-      "releases": {
-        "totalCount": 12
-      },
-      "issues": {
-        "totalCount": 300
-      },
-      "issuesClosed": {
-        "totalCount": 300
-      }
-    },
-    {
-      "name": "system-prompts-and-models-of-ai-tools",
-      "owner": {
-        "login": "x1xhlol"
-      },
-      "stargazerCount": 125736,
-      "createdAt": "2025-03-05T16:38:29Z",
-      "updatedAt": "2026-02-27T19:08:56Z",
-      "primaryLanguage": null,
-      "pullRequests": {
-        "totalCount": 45
-      },
-      "releases": {
-        "totalCount": 0
-      },
-      "issues": {
-        "totalCount": 188
-      },
-      "issuesClosed": {
-        "totalCount": 102
-      }
-    },
-    {
-      "name": "react-native",
-      "owner": {
-        "login": "facebook"
-      },
-      "stargazerCount": 125455,
-      "createdAt": "2015-01-09T18:10:16Z",
-      "updatedAt": "2026-02-27T18:17:06Z",
-      "primaryLanguage": {
-        "name": "C++"
-      },
-      "pullRequests": {
-        "totalCount": 953
-      },
-      "releases": {
-        "totalCount": 442
-      },
-      "issues": {
-        "totalCount": 27571
-      },
-      "issuesClosed": {
-        "totalCount": 26823
-      }
-    },
-    {
-      "name": "open-webui",
-      "owner": {
-        "login": "open-webui"
-      },
-      "stargazerCount": 125151,
-      "createdAt": "2023-10-06T22:08:27Z",
-      "updatedAt": "2026-02-27T18:40:15Z",
-      "primaryLanguage": {
-        "name": "Python"
-      },
-      "pullRequests": {
-        "totalCount": 3262
-      },
-      "releases": {
-        "totalCount": 149
-      },
-      "issues": {
-        "totalCount": 7732
-      },
-      "issuesClosed": {
-        "totalCount": 7561
-      }
-    },
-    {
-      "name": "hello-algo",
-      "owner": {
-        "login": "krahets"
-      },
-      "stargazerCount": 122512,
-      "createdAt": "2022-11-04T11:08:34Z",
-      "updatedAt": "2026-02-27T16:44:39Z",
-      "primaryLanguage": {
-        "name": "Java"
-      },
-      "pullRequests": {
-        "totalCount": 968
-      },
-      "releases": {
-        "totalCount": 10
-      },
-      "issues": {
-        "totalCount": 282
-      },
-      "issuesClosed": {
-        "totalCount": 274
-      }
-    },
-    {
-      "name": "kubernetes",
-      "owner": {
-        "login": "kubernetes"
-      },
-      "stargazerCount": 120809,
-      "createdAt": "2014-06-06T22:56:04Z",
-      "updatedAt": "2026-02-27T18:02:53Z",
-      "primaryLanguage": {
-        "name": "Go"
-      },
-      "pullRequests": {
-        "totalCount": 63915
-      },
-      "releases": {
-        "totalCount": 784
-      },
-      "issues": {
-        "totalCount": 48585
-      },
-      "issuesClosed": {
-        "totalCount": 46756
-      }
-    },
-    {
-      "name": "electron",
-      "owner": {
-        "login": "electron"
-      },
-      "stargazerCount": 120231,
-      "createdAt": "2013-04-12T01:47:36Z",
-      "updatedAt": "2026-02-27T17:47:18Z",
-      "primaryLanguage": {
-        "name": "C++"
-      },
-      "pullRequests": {
-        "totalCount": 24449
-      },
-      "releases": {
-        "totalCount": 1000
-      },
-      "issues": {
-        "totalCount": 21462
-      },
-      "issuesClosed": {
-        "totalCount": 20724
-      }
-    },
-    {
-      "name": "free-for-dev",
-      "owner": {
-        "login": "ripienaar"
-      },
-      "stargazerCount": 118160,
-      "createdAt": "2015-03-18T21:06:26Z",
-      "updatedAt": "2026-02-27T18:46:45Z",
-      "primaryLanguage": {
-        "name": "HTML"
-      },
-      "pullRequests": {
-        "totalCount": 2888
-      },
-      "releases": {
-        "totalCount": 0
-      },
-      "issues": {
-        "totalCount": 0
-      },
-      "issuesClosed": {
-        "totalCount": 0
-      }
-    },
-    {
-      "name": "excalidraw",
-      "owner": {
-        "login": "excalidraw"
-      },
-      "stargazerCount": 117649,
-      "createdAt": "2020-01-02T01:04:43Z",
-      "updatedAt": "2026-02-27T18:46:52Z",
-      "primaryLanguage": {
-        "name": "TypeScript"
-      },
-      "pullRequests": {
-        "totalCount": 3834
-      },
-      "releases": {
-        "totalCount": 14
-      },
-      "issues": {
-        "totalCount": 4633
-      },
-      "issuesClosed": {
-        "totalCount": 2538
-      }
-    },
-    {
-      "name": "free-programming-books-zh_CN",
-      "owner": {
-        "login": "justjavac"
-      },
-      "stargazerCount": 116365,
-      "createdAt": "2013-11-04T01:59:19Z",
-      "updatedAt": "2026-02-27T12:38:21Z",
-      "primaryLanguage": null,
-      "pullRequests": {
-        "totalCount": 282
-      },
-      "releases": {
-        "totalCount": 3
-      },
-      "issues": {
-        "totalCount": 0
-      },
-      "issuesClosed": {
-        "totalCount": 0
-      }
-    },
-    {
-      "name": "node",
-      "owner": {
-        "login": "nodejs"
-      },
-      "stargazerCount": 115980,
-      "createdAt": "2014-11-26T19:57:11Z",
-      "updatedAt": "2026-02-27T19:00:37Z",
-      "primaryLanguage": {
-        "name": "JavaScript"
-      },
-      "pullRequests": {
-        "totalCount": 11846
-      },
-      "releases": {
-        "totalCount": 483
-      },
-      "issues": {
-        "totalCount": 20070
-      },
-      "issuesClosed": {
-        "totalCount": 18315
-      }
-    },
-    {
-      "name": "d3",
-      "owner": {
-        "login": "d3"
-      },
-      "stargazerCount": 112428,
-      "createdAt": "2010-09-27T17:22:42Z",
-      "updatedAt": "2026-02-27T16:56:20Z",
-      "primaryLanguage": {
-        "name": "Shell"
-      },
-      "pullRequests": {
-        "totalCount": 494
-      },
-      "releases": {
-        "totalCount": 194
-      },
-      "issues": {
-        "totalCount": 2239
-      },
-      "issuesClosed": {
-        "totalCount": 2229
-      }
-    },
-    {
-      "name": "opencode",
-      "owner": {
-        "login": "anomalyco"
-      },
-      "stargazerCount": 112382,
-      "createdAt": "2025-04-30T20:08:00Z",
-      "updatedAt": "2026-02-27T19:09:33Z",
-      "primaryLanguage": {
-        "name": "TypeScript"
-      },
-      "pullRequests": {
-        "totalCount": 2525
-      },
-      "releases": {
-        "totalCount": 725
-      },
-      "issues": {
-        "totalCount": 9296
-      },
-      "issuesClosed": {
-        "totalCount": 4912
-      }
-    },
-    {
-      "name": "iptv",
-      "owner": {
-        "login": "iptv-org"
-      },
-      "stargazerCount": 112094,
-      "createdAt": "2018-11-14T22:00:57Z",
-      "updatedAt": "2026-02-27T19:00:02Z",
-      "primaryLanguage": {
-        "name": "TypeScript"
-      },
-      "pullRequests": {
-        "totalCount": 6812
-      },
-      "releases": {
-        "totalCount": 0
-      },
-      "issues": {
-        "totalCount": 21565
-      },
-      "issuesClosed": {
-        "totalCount": 21218
-      }
-    },
-    {
-      "name": "three.js",
-      "owner": {
-        "login": "mrdoob"
-      },
-      "stargazerCount": 111105,
-      "createdAt": "2010-03-23T18:58:01Z",
-      "updatedAt": "2026-02-27T16:52:17Z",
-      "primaryLanguage": {
-        "name": "JavaScript"
-      },
-      "pullRequests": {
-        "totalCount": 15210
-      },
-      "releases": {
-        "totalCount": 175
-      },
-      "issues": {
-        "totalCount": 13497
-      },
-      "issuesClosed": {
-        "totalCount": 13055
-      }
-    },
-    {
-      "name": "rust",
-      "owner": {
-        "login": "rust-lang"
-      },
-      "stargazerCount": 110765,
-      "createdAt": "2010-06-16T20:39:03Z",
-      "updatedAt": "2026-02-27T18:26:39Z",
-      "primaryLanguage": {
-        "name": "Rust"
-      },
-      "pullRequests": {
-        "totalCount": 69407
-      },
-      "releases": {
-        "totalCount": 146
-      },
-      "issues": {
-        "totalCount": 61528
-      },
-      "issuesClosed": {
-        "totalCount": 50393
-      }
-    },
-    {
-      "name": "axios",
-      "owner": {
-        "login": "axios"
-      },
-      "stargazerCount": 108581,
-      "createdAt": "2014-08-18T22:30:27Z",
-      "updatedAt": "2026-02-27T17:14:27Z",
-      "primaryLanguage": {
-        "name": "JavaScript"
-      },
-      "pullRequests": {
-        "totalCount": 1132
-      },
-      "releases": {
-        "totalCount": 109
-      },
-      "issues": {
-        "totalCount": 4954
-      },
-      "issuesClosed": {
-        "totalCount": 4755
-      }
-    },
-    {
-      "name": "rustdesk",
-      "owner": {
-        "login": "rustdesk"
-      },
-      "stargazerCount": 108251,
-      "createdAt": "2020-09-28T15:36:08Z",
-      "updatedAt": "2026-02-27T19:03:52Z",
-      "primaryLanguage": {
-        "name": "Rust"
-      },
-      "pullRequests": {
-        "totalCount": 3934
-      },
-      "releases": {
-        "totalCount": 35
-      },
-      "issues": {
-        "totalCount": 3997
-      },
-      "issuesClosed": {
-        "totalCount": 3930
-      }
-    },
-    {
-      "name": "TypeScript",
-      "owner": {
-        "login": "microsoft"
-      },
-      "stargazerCount": 107964,
-      "createdAt": "2014-06-17T15:28:39Z",
-      "updatedAt": "2026-02-27T19:06:27Z",
-      "primaryLanguage": {
-        "name": "TypeScript"
-      },
-      "pullRequests": {
-        "totalCount": 14851
-      },
-      "releases": {
-        "totalCount": 214
-      },
-      "issues": {
-        "totalCount": 42955
-      },
-      "issuesClosed": {
-        "totalCount": 37982
-      }
-    },
-    {
-      "name": "Awesome-Hacking",
-      "owner": {
-        "login": "Hack-with-Github"
-      },
-      "stargazerCount": 107428,
-      "createdAt": "2016-03-30T15:47:10Z",
-      "updatedAt": "2026-02-27T19:03:24Z",
-      "primaryLanguage": null,
-      "pullRequests": {
-        "totalCount": 34
-      },
-      "releases": {
-        "totalCount": 0
-      },
-      "issues": {
-        "totalCount": 0
-      },
-      "issuesClosed": {
-        "totalCount": 0
-      }
-    },
-    {
-      "name": "ui",
-      "owner": {
-        "login": "shadcn-ui"
-      },
-      "stargazerCount": 107423,
-      "createdAt": "2023-01-04T12:43:27Z",
-      "updatedAt": "2026-02-27T18:43:55Z",
-      "primaryLanguage": {
-        "name": "TypeScript"
-      },
-      "pullRequests": {
-        "totalCount": 999
-      },
-      "releases": {
-        "totalCount": 75
-      },
-      "issues": {
-        "totalCount": 3920
-      },
-      "issuesClosed": {
-        "totalCount": 2931
-      }
-    },
-    {
-      "name": "generative-ai-for-beginners",
-      "owner": {
-        "login": "microsoft"
-      },
-      "stargazerCount": 107180,
-      "createdAt": "2023-06-19T16:28:59Z",
-      "updatedAt": "2026-02-27T18:40:32Z",
-      "primaryLanguage": {
-        "name": "Jupyter Notebook"
-      },
-      "pullRequests": {
-        "totalCount": 521
-      },
-      "releases": {
-        "totalCount": 0
-      },
-      "issues": {
-        "totalCount": 206
-      },
-      "issuesClosed": {
-        "totalCount": 201
-      }
-    },
-    {
-      "name": "godot",
-      "owner": {
-        "login": "godotengine"
-      },
-      "stargazerCount": 107147,
-      "createdAt": "2014-01-04T16:05:36Z",
-      "updatedAt": "2026-02-27T18:40:22Z",
-      "primaryLanguage": {
-        "name": "C++"
-      },
-      "pullRequests": {
-        "totalCount": 41347
-      },
-      "releases": {
-        "totalCount": 66
-      },
-      "issues": {
-        "totalCount": 61177
-      },
-      "issuesClosed": {
-        "totalCount": 48218
-      }
-    },
-    {
-      "name": "GitHub-Chinese-Top-Charts",
-      "owner": {
-        "login": "GrowingGit"
-      },
-      "stargazerCount": 106364,
-      "createdAt": "2019-09-05T03:01:56Z",
-      "updatedAt": "2026-02-27T19:01:23Z",
-      "primaryLanguage": {
-        "name": "Java"
-      },
-      "pullRequests": {
-        "totalCount": 0
-      },
-      "releases": {
-        "totalCount": 0
-      },
-      "issues": {
-        "totalCount": 343
-      },
-      "issuesClosed": {
-        "totalCount": 162
-      }
-    },
-    {
-      "name": "deno",
-      "owner": {
-        "login": "denoland"
-      },
-      "stargazerCount": 106282,
-      "createdAt": "2018-05-15T01:34:26Z",
-      "updatedAt": "2026-02-27T18:26:02Z",
-      "primaryLanguage": {
-        "name": "Rust"
-      },
-      "pullRequests": {
-        "totalCount": 14206
-      },
-      "releases": {
-        "totalCount": 365
-      },
-      "issues": {
-        "totalCount": 13940
-      },
-      "issuesClosed": {
-        "totalCount": 11507
-      }
-    },
-    {
-      "name": "nodebestpractices",
-      "owner": {
-        "login": "goldbergyoni"
-      },
-      "stargazerCount": 105133,
-      "createdAt": "2017-09-15T08:33:19Z",
-      "updatedAt": "2026-02-27T17:13:45Z",
-      "primaryLanguage": {
-        "name": "Dockerfile"
-      },
-      "pullRequests": {
-        "totalCount": 766
-      },
-      "releases": {
-        "totalCount": 0
-      },
-      "issues": {
-        "totalCount": 332
-      },
-      "issuesClosed": {
-        "totalCount": 286
-      }
-    },
-    {
-      "name": "frp",
-      "owner": {
-        "login": "fatedier"
-      },
-      "stargazerCount": 104727,
-      "createdAt": "2015-12-21T15:24:59Z",
-      "updatedAt": "2026-02-27T18:44:19Z",
-      "primaryLanguage": {
-        "name": "Go"
-      },
-      "pullRequests": {
-        "totalCount": 727
-      },
-      "releases": {
-        "totalCount": 109
-      },
-      "issues": {
-        "totalCount": 4053
-      },
-      "issuesClosed": {
-        "totalCount": 4017
-      }
-    },
-    {
-      "name": "ComfyUI",
-      "owner": {
-        "login": "Comfy-Org"
-      },
-      "stargazerCount": 104395,
-      "createdAt": "2023-01-17T03:15:56Z",
-      "updatedAt": "2026-02-27T18:31:03Z",
-      "primaryLanguage": {
-        "name": "Python"
-      },
-      "pullRequests": {
-        "totalCount": 2163
-      },
-      "releases": {
-        "totalCount": 121
-      },
-      "issues": {
-        "totalCount": 7921
-      },
-      "issuesClosed": {
-        "totalCount": 4478
-      }
-    },
-    {
-      "name": "create-react-app",
-      "owner": {
-        "login": "facebook"
-      },
-      "stargazerCount": 103830,
-      "createdAt": "2016-07-17T14:55:11Z",
-      "updatedAt": "2026-02-27T14:00:14Z",
-      "primaryLanguage": {
-        "name": "JavaScript"
-      },
-      "pullRequests": {
-        "totalCount": 1949
-      },
-      "releases": {
-        "totalCount": 83
-      },
-      "issues": {
-        "totalCount": 8420
-      },
-      "issuesClosed": {
-        "totalCount": 6573
-      }
-    },
-    {
-      "name": "papers-we-love",
-      "owner": {
-        "login": "papers-we-love"
-      },
-      "stargazerCount": 103668,
-      "createdAt": "2013-12-15T14:31:41Z",
-      "updatedAt": "2026-02-27T18:44:08Z",
-      "primaryLanguage": {
-        "name": "Shell"
-      },
-      "pullRequests": {
-        "totalCount": 439
-      },
-      "releases": {
-        "totalCount": 0
-      },
-      "issues": {
-        "totalCount": 247
-      },
-      "issuesClosed": {
-        "totalCount": 245
-      }
-    },
-    {
-      "name": "tauri",
-      "owner": {
-        "login": "tauri-apps"
-      },
-      "stargazerCount": 103381,
-      "createdAt": "2019-07-13T09:09:37Z",
-      "updatedAt": "2026-02-27T19:11:27Z",
-      "primaryLanguage": {
-        "name": "Rust"
-      },
-      "pullRequests": {
-        "totalCount": 5388
-      },
-      "releases": {
-        "totalCount": 0
-      },
-      "issues": {
-        "totalCount": 6158
-      },
-      "issuesClosed": {
-        "totalCount": 4904
-      }
-    },
-    {
-      "name": "terminal",
-      "owner": {
-        "login": "microsoft"
-      },
-      "stargazerCount": 101933,
-      "createdAt": "2017-08-11T18:38:22Z",
-      "updatedAt": "2026-02-27T19:02:52Z",
-      "primaryLanguage": {
-        "name": "C++"
-      },
-      "pullRequests": {
-        "totalCount": 4368
-      },
-      "releases": {
-        "totalCount": 146
-      },
-      "issues": {
-        "totalCount": 13806
-      },
-      "issuesClosed": {
-        "totalCount": 12158
-      }
-    },
-    {
-      "name": "DeepSeek-V3",
-      "owner": {
-        "login": "deepseek-ai"
-      },
-      "stargazerCount": 101772,
-      "createdAt": "2024-12-26T09:52:40Z",
-      "updatedAt": "2026-02-27T18:32:56Z",
-      "primaryLanguage": {
-        "name": "Python"
-      },
-      "pullRequests": {
-        "totalCount": 25
-      },
-      "releases": {
-        "totalCount": 1
-      },
-      "issues": {
-        "totalCount": 715
-      },
-      "issuesClosed": {
-        "totalCount": 670
-      }
-    },
-    {
-      "name": "angular",
-      "owner": {
-        "login": "angular"
-      },
-      "stargazerCount": 100029,
-      "createdAt": "2014-09-18T16:12:01Z",
-      "updatedAt": "2026-02-27T17:11:57Z",
-      "primaryLanguage": {
-        "name": "TypeScript"
-      },
-      "pullRequests": {
-        "totalCount": 5608
-      },
-      "releases": {
-        "totalCount": 606
-      },
-      "issues": {
-        "totalCount": 30358
-      },
-      "issuesClosed": {
-        "totalCount": 29362
-      }
-    },
-    {
-      "name": "awesome-mac",
-      "owner": {
-        "login": "jaywcjlove"
-      },
-      "stargazerCount": 99325,
-      "createdAt": "2016-07-17T15:33:47Z",
-      "updatedAt": "2026-02-27T18:44:17Z",
-      "primaryLanguage": {
-        "name": "JavaScript"
-      },
-      "pullRequests": {
-        "totalCount": 1075
-      },
-      "releases": {
-        "totalCount": 13
-      },
-      "issues": {
-        "totalCount": 509
-      },
-      "issuesClosed": {
-        "totalCount": 378
-      }
-    },
-    {
-      "name": "clash-verge-rev",
-      "owner": {
-        "login": "clash-verge-rev"
-      },
-      "stargazerCount": 99211,
-      "createdAt": "2023-11-21T18:24:03Z",
-      "updatedAt": "2026-02-27T18:33:09Z",
-      "primaryLanguage": {
-        "name": "TypeScript"
-      },
-      "pullRequests": {
-        "totalCount": 743
-      },
-      "releases": {
-        "totalCount": 62
-      },
-      "issues": {
-        "totalCount": 4973
-      },
-      "issuesClosed": {
-        "totalCount": 4818
-      }
-    },
-    {
-      "name": "HowToCook",
-      "owner": {
-        "login": "Anduin2017"
-      },
-      "stargazerCount": 98334,
-      "createdAt": "2020-02-29T10:43:49Z",
-      "updatedAt": "2026-02-27T17:48:20Z",
-      "primaryLanguage": {
-        "name": "Dockerfile"
-      },
-      "pullRequests": {
-        "totalCount": 613
-      },
-      "releases": {
-        "totalCount": 4
-      },
-      "issues": {
-        "totalCount": 826
-      },
-      "issuesClosed": {
-        "totalCount": 364
-      }
-    },
-    {
-      "name": "supabase",
-      "owner": {
-        "login": "supabase"
-      },
-      "stargazerCount": 98266,
-      "createdAt": "2019-10-12T05:56:49Z",
-      "updatedAt": "2026-02-27T19:02:08Z",
-      "primaryLanguage": {
-        "name": "TypeScript"
-      },
-      "pullRequests": {
-        "totalCount": 15478
-      },
-      "releases": {
-        "totalCount": 25
-      },
-      "issues": {
-        "totalCount": 5218
-      },
-      "issuesClosed": {
-        "totalCount": 4949
-      }
-    },
-    {
-      "name": "every-programmer-should-know",
-      "owner": {
-        "login": "mtdvio"
-      },
-      "stargazerCount": 98078,
-      "createdAt": "2017-08-24T13:18:26Z",
-      "updatedAt": "2026-02-27T19:11:54Z",
-      "primaryLanguage": null,
-      "pullRequests": {
-        "totalCount": 110
-      },
-      "releases": {
-        "totalCount": 0
-      },
-      "issues": {
-        "totalCount": 44
-      },
-      "issuesClosed": {
-        "totalCount": 31
-      }
-    },
-    {
-      "name": "material-ui",
-      "owner": {
-        "login": "mui"
-      },
-      "stargazerCount": 97976,
-      "createdAt": "2014-08-18T19:11:54Z",
-      "updatedAt": "2026-02-27T15:31:25Z",
-      "primaryLanguage": {
-        "name": "JavaScript"
-      },
-      "pullRequests": {
-        "totalCount": 21459
-      },
-      "releases": {
-        "totalCount": 555
-      },
-      "issues": {
-        "totalCount": 20343
-      },
-      "issuesClosed": {
-        "totalCount": 18748
-      }
-    },
-    {
-      "name": "pytorch",
-      "owner": {
-        "login": "pytorch"
-      },
-      "stargazerCount": 97801,
-      "createdAt": "2016-08-13T05:26:41Z",
-      "updatedAt": "2026-02-27T18:53:11Z",
-      "primaryLanguage": {
-        "name": "Python"
-      },
-      "pullRequests": {
-        "totalCount": 6428
-      },
-      "releases": {
-        "totalCount": 64
-      },
-      "issues": {
-        "totalCount": 56990
-      },
-      "issuesClosed": {
-        "totalCount": 40908
-      }
-    },
-    {
-      "name": "awesome-llm-apps",
-      "owner": {
-        "login": "Shubhamsaboo"
-      },
-      "stargazerCount": 97648,
-      "createdAt": "2024-04-29T05:30:25Z",
-      "updatedAt": "2026-02-27T19:07:15Z",
-      "primaryLanguage": {
-        "name": "Python"
-      },
-      "pullRequests": {
-        "totalCount": 169
-      },
-      "releases": {
-        "totalCount": 0
-      },
-      "issues": {
-        "totalCount": 119
-      },
-      "issuesClosed": {
-        "totalCount": 119
-      }
-    },
-    {
-      "name": "ant-design",
-      "owner": {
-        "login": "ant-design"
-      },
-      "stargazerCount": 97631,
-      "createdAt": "2015-04-24T15:37:24Z",
-      "updatedAt": "2026-02-27T19:05:18Z",
-      "primaryLanguage": {
-        "name": "TypeScript"
-      },
-      "pullRequests": {
-        "totalCount": 17014
-      },
-      "releases": {
-        "totalCount": 740
-      },
-      "issues": {
-        "totalCount": 32384
-      },
-      "issuesClosed": {
-        "totalCount": 31090
-      }
-    },
-    {
-      "name": "v2rayN",
-      "owner": {
-        "login": "2dust"
-      },
-      "stargazerCount": 97524,
-      "createdAt": "2019-07-30T03:47:24Z",
-      "updatedAt": "2026-02-27T19:07:35Z",
-      "primaryLanguage": {
-        "name": "C#"
-      },
-      "pullRequests": {
-        "totalCount": 384
-      },
-      "releases": {
-        "totalCount": 298
-      },
-      "issues": {
-        "totalCount": 6581
-      },
-      "issuesClosed": {
-        "totalCount": 6564
-      }
-    },
-    {
-      "name": "neovim",
-      "owner": {
-        "login": "neovim"
-      },
-      "stargazerCount": 96811,
-      "createdAt": "2014-01-31T13:39:22Z",
-      "updatedAt": "2026-02-27T18:33:25Z",
-      "primaryLanguage": {
-        "name": "Vim Script"
-      },
-      "pullRequests": {
-        "totalCount": 17687
-      },
-      "releases": {
-        "totalCount": 48
-      },
-      "issues": {
-        "totalCount": 13735
-      },
-      "issuesClosed": {
-        "totalCount": 12087
-      }
-    },
-    {
-      "name": "llama.cpp",
-      "owner": {
-        "login": "ggml-org"
-      },
-      "stargazerCount": 96077,
-      "createdAt": "2023-03-10T18:58:00Z",
-      "updatedAt": "2026-02-27T18:46:22Z",
-      "primaryLanguage": {
-        "name": "C++"
-      },
-      "pullRequests": {
-        "totalCount": 7446
-      },
-      "releases": {
-        "totalCount": 1000
-      },
-      "issues": {
-        "totalCount": 7053
-      },
-      "issuesClosed": {
-        "totalCount": 6636
-      }
-    },
-    {
-      "name": "gemini-cli",
-      "owner": {
-        "login": "google-gemini"
-      },
-      "stargazerCount": 95900,
-      "createdAt": "2025-04-17T17:04:31Z",
-      "updatedAt": "2026-02-27T19:06:51Z",
-      "primaryLanguage": {
-        "name": "TypeScript"
-      },
-      "pullRequests": {
-        "totalCount": 5123
-      },
-      "releases": {
-        "totalCount": 380
-      },
-      "issues": {
-        "totalCount": 10440
-      },
-      "issuesClosed": {
-        "totalCount": 8443
+        "totalCount": 61098
       }
     }
   ]

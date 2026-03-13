@@ -1,19 +1,23 @@
 query ($cursor: String) {
-  search(query: "stars:>1 sort:stars-desc", type: REPOSITORY, first: 10, after: $cursor) {
+  search(query: "stars:>1000 sort:stars-desc", type: REPOSITORY, first: 10, after: $cursor) {
     pageInfo {
       hasNextPage
       endCursor
     }
     nodes {
       ... on Repository {
+
         name
+
         owner {
           login
         }
+
         stargazerCount
+
         createdAt
         updatedAt
-        
+
         primaryLanguage {
           name
         }
@@ -26,13 +30,14 @@ query ($cursor: String) {
           totalCount
         }
 
-        issues {
+        openIssues: issues(states: OPEN) {
           totalCount
         }
 
-        issuesClosed: issues(states: CLOSED) {
+        closedIssues: issues(states: CLOSED) {
           totalCount
         }
+
       }
     }
   }
